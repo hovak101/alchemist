@@ -1,6 +1,6 @@
 # libraries
 yfinance
-pandas_datareader
+pandas-datareader
 
 # commands
 .\alchemist-venv\Scripts\pip.exe freeze > requirements.txt
